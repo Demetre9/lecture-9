@@ -35,20 +35,25 @@ p {
   width: 760px;
   height: 446.76px;
   top: 90px;
-  right: 1150px;
+  right: 1525px;
 }
 
-.second-section {
+.section-2 {
   width: 100%;
   height: 680px;
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  position: relative;
-  background-color: #f6f6f6;
   margin-top: 250px;
-  padding-right: 25px;
-  margin-left: 20px;
+  margin-left: 45px;
+}
+
+.second-section {
+  width: 1349;
+  height: 680px;
+  background-color: #f6f6f6;
+  padding-bottom: 200px;
 }
 
 h2 {
@@ -75,5 +80,5 @@ h2 {
   width: 800px;
   height: 480.88px;
   left: 425px;
-  bottom: 150px;
+  bottom: 115px;
 }

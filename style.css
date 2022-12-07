@@ -35,12 +35,10 @@ p {
   width: 760px;
   height: 446.76px;
   top: 90px;
-  right: 1525px;
+  right: 1150px;
 }
 
 .section-2 {
-  width: 100%;
-  height: 680px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -50,7 +48,7 @@ p {
 }
 
 .second-section {
-  width: 1349;
+  width: 100%;
   height: 680px;
   background-color: #f6f6f6;
   padding-bottom: 200px;
@@ -80,5 +78,5 @@ h2 {
   width: 800px;
   height: 480.88px;
   left: 425px;
-  bottom: 115px;
+  bottom: 160px;
 }

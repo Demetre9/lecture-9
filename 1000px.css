@@ -1,0 +1,40 @@
+@media screen and (max-width: 768px) {
+  .first-section {
+    height: auto;
+    align-items: center;
+  }
+  h1 {
+    height: auto;
+  }
+  .first-image {
+    width: 400px;
+    height: 243.76px;
+    top: 218px;
+    right: 309px;
+  }
+
+  .section-2 {
+    height: auto;
+  }
+
+  .second-section img {
+    width: 400px;
+    height: 243.76px;
+    top: 190px;
+    left: -63px;
+  }
+
+  h2 {
+    margin-left: 0px;
+    margin-top: 25px;
+  }
+  .section-2 p {
+    margin-left: 0px;
+  }
+  .section-2 {
+    width: 410px;
+    height: 256.76px;
+    top: 206px;
+    left: -81px;
+  }
+}

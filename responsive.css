@@ -1,4 +1,4 @@
-@media screen and(max-width: 1000px) {
+@media screen and (max-width: 1250px) {
   h1 {
     font-size: 30px;
   }
@@ -15,15 +15,17 @@
   }
   h2 {
     font-size: 30px;
+    height: auto;
   }
   .second-section p {
     font-size: 15px;
+    height: auto;
   }
   .second-section img {
     position: absolute;
     width: 630px;
     height: 480.88px;
-    left: 300px;
-    bottom: 273px;
+    left: 250px;
+    bottom: 85px;
   }
 }

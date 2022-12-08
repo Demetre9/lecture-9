@@ -28,13 +28,25 @@
     margin-left: 0px;
     margin-top: 25px;
   }
+
+  .second-section {
+    height: auto;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+  }
   .section-2 p {
     margin-left: 0px;
   }
+
   .section-2 {
+    padding-bottom: 0;
+    margin-left: 0;
+  }
+  .second-section img {
     width: 410px;
     height: 256.76px;
-    top: 206px;
-    left: -81px;
+    top: 218px;
+    left: 20px;
   }
 }
